@@ -1,51 +1,51 @@
-Item Number,Site,Assigned,Priority,Job description,Date posted,Notes/Updates,Current Date,Days Outstanding,Completed,Completed Date,Picture,Category
-1,450,Tim,,Removal of 6 ash trees in front of building.,9/1/2022,Quotes provided from Greenwood ($7300) and Atlas ($3600). Contacted Al D Landscaping for additional quote.,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3723.jpg?raw=true,Maintenance
-2,450,Tim,,Pothole filling required on Madison Circle Drive,9/1/2022,Responsibility of East Rutherford DPW,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3717.jpg?raw=true,Maintenance
-3,450,Sasha,,Sasha to trim hedges and evergreens encroaching onto sidewalk in front of Unit A and A1,9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3722.jpg?raw=true,Maintenance
-4,450,,,Remove section of guardrail outside Unit C,9/1/2022,,10/20/2022,49,,,,Budgetary
-5,450,,,Holes marked outside E1 - for future repair,9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3713.jpg?raw=true,Budgetary
-6,450,,,Repairs required along concete wall and pavement dropoff outside E1. Extend guard railing appx 32 feet,9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3714.jpg?raw=true,Budgetary
-7,450,Sasha,,Paint and caulk around doors of Unit D,9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3711.jpg?raw=true,Repairs
-8,450,,,Repair or patch broken pipe / roof drain outside Unit D,9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3709.jpg?raw=true,Repairs
-9,450,,,"Repave entire ""North Lot"" (multiple holes, damage throughout). Check drawings to calculate square footage",9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3708.jpg?raw=true,Budgetary
-10,450,,,Montalto to start loading dock construction at Unit B. ,9/1/2022,Stop work order issued on 9/29 after work was partially completed. ,10/20/2022,49,,,,Budgetary
-11,450,,,Roof drain cover outside unit D2 should be removed/eliminated (for next year),9/1/2022,,10/20/2022,49,,,,Budgetary
-12,450,,,Spray for weeds on pavement outside D2,9/1/2022,,10/20/2022,49,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3702.jpg?raw=true,Maintenance
-13,450,Tim,,Derelict trailers parked outside Unit E,9/7/2022,Met with East Rutherford police to take report. Derelict trailer on Madison Circle Drive was towed. Two trailers outside unit E must be handled by us on private property. Nicks towing notified. Will require payment to tow since material can't be salvaged. Gerry discussing directly with Nicks and Workplace (owners of derelict trailers),10/20/2022,43,,,https://github.com/saferdevelopment/450/blob/main/090722/IMG_3838.JPG?raw=true,Maintenance
-14,450,,,ASCO fire protection testing,10/18/2022,Testing conducted at each riser and outdoor hydrants. May need to replace top hydrant cap in North Lot. Bolt has been stripped and hydrant was partially opened when tested. ,10/20/2022,2,X,,,Compliance
-15,525,,,Unit 1 drain in interior loading dock is clogged. Need to snake drain,9/2/2022,,10/20/2022,48,,,,Maintenance
-16,525,,,Stripe lines leading up to Unit 1 loading dock,9/2/2022,,10/20/2022,48,,,,Budgetary
-17,525,,,Leak outside drip system at Unit 2,9/2/2022,,10/20/2022,48,X,,,Repairs
-18,525,,,Need to check all drip irrigation hoses for leaks (Carlos). Remove all weed cloth/fabric,9/2/2022,,10/20/2022,48,X,,,Repairs
-19,525,,,Dead trees on north of property,9/2/2022,,10/20/2022,48,,,,Maintenance
-20,525,,,Straighten parking signs - pour concrete if needed,9/2/2022,,10/20/2022,48,,,,Repairs
-21,525,,,Seal coat and restripe north lot outside Unit 1 and Unit 2,9/2/2022,Striping not completed yet,10/20/2022,48,X,,,Budgetary
-22,525,,,Spray for weeds in the lot,9/2/2022,,10/20/2022,48,,,,Maintenance
-23,525,,,Crack fill entire post office lot,9/2/2022,,10/20/2022,48,X,,,Budgetary
-24,525,,,Notify 4A tenants to remove debris in front of loading docks,9/2/2022,,10/20/2022,48,X,9/8/2022,,Maintenance
-25,650,,,Unit 1 tenant required to vacate unit ,9/2/2022,,10/20/2022,48,,,,Administrative
-26,650,,,Photocell issue with light at Unit 6 needs to be addressed,9/2/2022,,10/20/2022,48,,,,Repairs
-27,650,,,Baystate - Damaged bumper blocks on middle loading dock,9/2/2022,Spoke with tenant about issue. They told us that the elevations are different at the three doors and they are only able to use the middle door which is causing more damage to the bumpers,10/20/2022,48,,,,Repairs
-28,650,,5,Some minor water damage on the north side wall of the building. May also need power washing.,9/2/2022,,10/20/2022,48,,,,Repairs
-29,650,,,Some wall cracking and minor EIFS façade damage on south facing wall outside Unit 6 ,9/2/2022,,10/20/2022,48,,,,Repairs
-30,650,,,Tenant in Unit 6 (Don) notified us there is a minor leak coming from the unit heater hanging over the interior loading lock ,9/2/2022,,10/20/2022,48,,,,Repairs
-31,650,,,Debris including used car batteries strewn outside of side door of Next Cleaners,10/19/2022,,10/20/2022,1,,,,Maintenance
-32,969,,,Need Jeff Boyer to straighten pole with mounted camera. Possibly cover exposed wires with conduit and metal box. ,9/2/2022,,10/20/2022,48,,,"https://github.com/saferdevelopment/969/blob/main/090222/IMG_3728.JPG?raw=true
+Item,Site,Assigned,Priority,Desription,Date,Updates,Completed,Picture,Category
+1,450,Tim,,Removal of 6 ash trees in front of building.,9/1/2022,Quotes provided from Greenwood ($7300) and Atlas ($3600). Contacted Al D Landscaping for additional quote.,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3723.jpg?raw=true,Maintenance
+2,450,Tim,,Pothole filling required on Madison Circle Drive,9/1/2022,Responsibility of East Rutherford DPW,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3717.jpg?raw=true,Maintenance
+3,450,Sasha,,Sasha to trim hedges and evergreens encroaching onto sidewalk in front of Unit A and A1,9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3722.jpg?raw=true,Maintenance
+4,450,,,Remove section of guardrail outside Unit C,9/1/2022,,,,Budgetary
+5,450,,,Holes marked outside E1 - for future repair,9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3713.jpg?raw=true,Budgetary
+6,450,,,Repairs required along concete wall and pavement dropoff outside E1. Extend guard railing appx 32 feet,9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3714.jpg?raw=true,Budgetary
+7,450,Sasha,,Paint and caulk around doors of Unit D,9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3711.jpg?raw=true,Repairs
+8,450,,,Repair or patch broken pipe / roof drain outside Unit D,9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3709.jpg?raw=true,Repairs
+9,450,,,"Repave entire ""North Lot"" (multiple holes, damage throughout). Check drawings to calculate square footage",9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3708.jpg?raw=true,Budgetary
+10,450,,,Montalto to start loading dock construction at Unit B. ,9/1/2022,Stop work order issued on 9/29 after work was partially completed. ,,,Budgetary
+11,450,,,Roof drain cover outside unit D2 should be removed/eliminated (for next year),9/1/2022,,,,Budgetary
+12,450,,,Spray for weeds on pavement outside D2,9/1/2022,,,https://github.com/saferdevelopment/450/blob/main/090122/IMG_3702.jpg?raw=true,Maintenance
+13,450,Tim,,Derelict trailers parked outside Unit E,9/7/2022,Met with East Rutherford police to take report. Derelict trailer on Madison Circle Drive was towed. Two trailers outside unit E must be handled by us on private property. Nicks towing notified. Will require payment to tow since material can't be salvaged. Gerry discussing directly with Nicks and Workplace (owners of derelict trailers),,https://github.com/saferdevelopment/450/blob/main/090722/IMG_3838.JPG?raw=true,Maintenance
+14,450,,,ASCO fire protection testing,10/18/2022,Testing conducted at each riser and outdoor hydrants. May need to replace top hydrant cap in North Lot. Bolt has been stripped and hydrant was partially opened when tested. ,X,,Compliance
+15,525,,,Unit 1 drain in interior loading dock is clogged. Need to snake drain,9/2/2022,,,,Maintenance
+16,525,,,Stripe lines leading up to Unit 1 loading dock,9/2/2022,,,,Budgetary
+17,525,,,Leak outside drip system at Unit 2,9/2/2022,,X,,Repairs
+18,525,,,Need to check all drip irrigation hoses for leaks (Carlos). Remove all weed cloth/fabric,9/2/2022,,X,,Repairs
+19,525,,,Dead trees on north of property,9/2/2022,,,,Maintenance
+20,525,,,Straighten parking signs - pour concrete if needed,9/2/2022,,,,Repairs
+21,525,,,Seal coat and restripe north lot outside Unit 1 and Unit 2,9/2/2022,Striping not completed yet,X,,Budgetary
+22,525,,,Spray for weeds in the lot,9/2/2022,,,,Maintenance
+23,525,,,Crack fill entire post office lot,9/2/2022,,X,,Budgetary
+24,525,,,Notify 4A tenants to remove debris in front of loading docks,9/2/2022,,X,,Maintenance
+25,650,,,Unit 1 tenant required to vacate unit ,9/2/2022,,,,Administrative
+26,650,,,Photocell issue with light at Unit 6 needs to be addressed,9/2/2022,,,,Repairs
+27,650,,,Baystate - Damaged bumper blocks on middle loading dock,9/2/2022,Spoke with tenant about issue. They told us that the elevations are different at the three doors and they are only able to use the middle door which is causing more damage to the bumpers,,,Repairs
+28,650,,5,Some minor water damage on the north side wall of the building. May also need power washing.,9/2/2022,,,,Repairs
+29,650,,,Some wall cracking and minor EIFS façade damage on south facing wall outside Unit 6 ,9/2/2022,,,,Repairs
+30,650,,,Tenant in Unit 6 (Don) notified us there is a minor leak coming from the unit heater hanging over the interior loading lock ,9/2/2022,,,,Repairs
+31,650,,,Debris including used car batteries strewn outside of side door of Next Cleaners,10/19/2022,,,,Maintenance
+32,969,,,Need Jeff Boyer to straighten pole with mounted camera. Possibly cover exposed wires with conduit and metal box. ,9/2/2022,,,"https://github.com/saferdevelopment/969/blob/main/090222/IMG_3728.JPG?raw=true
 ",Repairs
-33,969,Tim,,Remove all trees at entrance of property. Trees currently obstructing view of security camera. Remove dead tree in front of property. ,9/2/2022,Quotes provided from Greenwood ($4531) and Atlas ($1800). Contacted Al D Landscaping for additional quote.,10/20/2022,48,,,https://github.com/saferdevelopment/969/blob/main/090222/IMG_3730.JPG?raw=true,Maintenance
-34,969,Tim,,Update directory. Contact Signs by Lynn,9/2/2022,If family foods moving into Cooper Electric then sign content can be finalized. ,10/20/2022,48,,,,Maintenance
-35,969,,,Stolen cameras - Need to construct 25ft post (overall height) + two cameras on top. John H to perform work. Pole to be located on north side of shed - between shed and property line of coffin blocks. ,9/2/2022,,10/20/2022,48,,,https://github.com/saferdevelopment/969/blob/main/090222/IMG_3733.JPG?raw=true,Repairs
-36,969,,,Need to provide some roof maintenance - minor spot repairs and clean drains,9/2/2022,,10/20/2022,48,X,10/6/2022,,Maintenance
-37,969,,,Add flag to post,9/2/2022,,10/20/2022,48,,,,Repairs
-38,969,,,Restripe for additional parking outside Cooper Electric,9/2/2022,,10/20/2022,48,,,,Budgetary
-39,969,,,Create road through corner (remove coffin blocks) for easier vehicle access,9/2/2022,,10/20/2022,48,,,,Budgetary
-40,969,,,Seal coat and restripe south lot. Spot pavement repairs. ,9/2/2022,Restriping not completed yet.,10/20/2022,48,X,10/15/2022,,Budgetary
-41,969,,,Plan for additional striping/parking outside Family Foods and Overseas Moving (east side of building),9/2/2022,,10/20/2022,48,,,,Budgetary
-42,969,,,Clean drainage area on east side of property,9/2/2022,,10/20/2022,48,X,,,Maintenance
-43,969,,,Pruning required on east side of property,9/2/2022,,10/20/2022,48,,,,Maintenance
-44,969,,,Phil needs to put continued pressure on Veola Water - resolution for water main break.,9/2/2022,10/19/22 site visit showed lareger volume of water pouring out of the main and under the barrier wall. Larger volume of ponding in adjacent loading dock. ,10/20/2022,48,,,,Administrative
-45,969,,,Seal north lot - call Swan Seal Coating,9/2/2022,,10/20/2022,48,,,,Budgetary
-46,969,,,Provide Albert with map of 42 truck parking spots on west lot (leased parking),9/2/2022,,10/20/2022,48,X,,,Administrative
-47,969,,,Boyer to inspect pump outside Panamerican loading dock,9/2/2022,,10/20/2022,48,,,,Repairs
-48,969,,,Top coffin block in back of parking near shed was hit by a truck. It's currently resting on top of bollard posts. Broken concrete is all over the ground. ,10/19/2022,,10/20/2022,1,,,,Repairs
-49,969,,,"ASCO inspector pointing out fire safety issues with racking at Family Foods. Many pallets less than 18"" of clearance between the rack and sprinkler. ",10/19/2022,,10/20/2022,1,,,,Administrative
+33,969,Tim,,Remove all trees at entrance of property. Trees currently obstructing view of security camera. Remove dead tree in front of property. ,9/2/2022,Quotes provided from Greenwood ($4531) and Atlas ($1800). Contacted Al D Landscaping for additional quote.,,https://github.com/saferdevelopment/969/blob/main/090222/IMG_3730.JPG?raw=true,Maintenance
+34,969,Tim,,Update directory. Contact Signs by Lynn,9/2/2022,If family foods moving into Cooper Electric then sign content can be finalized. ,,,Maintenance
+35,969,,,Stolen cameras - Need to construct 25ft post (overall height) + two cameras on top. John H to perform work. Pole to be located on north side of shed - between shed and property line of coffin blocks. ,9/2/2022,,,https://github.com/saferdevelopment/969/blob/main/090222/IMG_3733.JPG?raw=true,Repairs
+36,969,,,Need to provide some roof maintenance - minor spot repairs and clean drains,9/2/2022,,X,,Maintenance
+37,969,,,Add flag to post,9/2/2022,,,,Repairs
+38,969,,,Restripe for additional parking outside Cooper Electric,9/2/2022,,,,Budgetary
+39,969,,,Create road through corner (remove coffin blocks) for easier vehicle access,9/2/2022,,,,Budgetary
+40,969,,,Seal coat and restripe south lot. Spot pavement repairs. ,9/2/2022,Restriping not completed yet.,X,,Budgetary
+41,969,,,Plan for additional striping/parking outside Family Foods and Overseas Moving (east side of building),9/2/2022,,,,Budgetary
+42,969,,,Clean drainage area on east side of property,9/2/2022,,X,,Maintenance
+43,969,,,Pruning required on east side of property,9/2/2022,,,,Maintenance
+44,969,,,Phil needs to put continued pressure on Veola Water - resolution for water main break.,9/2/2022,10/19/22 site visit showed lareger volume of water pouring out of the main and under the barrier wall. Larger volume of ponding in adjacent loading dock. ,,,Administrative
+45,969,,,Seal north lot - call Swan Seal Coating,9/2/2022,,,,Budgetary
+46,969,,,Provide Albert with map of 42 truck parking spots on west lot (leased parking),9/2/2022,,X,,Administrative
+47,969,,,Boyer to inspect pump outside Panamerican loading dock,9/2/2022,,,,Repairs
+48,969,,,Top coffin block in back of parking near shed was hit by a truck. It's currently resting on top of bollard posts. Broken concrete is all over the ground. ,10/19/2022,,,,Repairs
+49,969,,,"ASCO inspector pointing out fire safety issues with racking at Family Foods. Many pallets less than 18"" of clearance between the rack and sprinkler. ",10/19/2022,,,,Administrative
