@@ -1,7 +1,7 @@
 Number,Site,Assigned,Priority,Date,Completed,PIC2,Category
 1,450,Tim,,9/1/2022,,"<a href=""https://github.com/saferdevelopment/450/blob/main/090122/IMG_3723.jpg?raw=true"" target=""_blank"">Image 1</a> ,  <a href=""https://github.com/saferdevelopment/450/blob/main/090122/IMG_3723.jpg?raw=true"" target=""_blank"" >Image 2</a>  ",Maintenance
 2,450,Tim,,9/1/2022,,"CONCAT('<a href=https://www.google.com>Google</a>',' ','<a href=https://www.yahoo.com>Yahoo</a>')",Maintenance
-3,450,Sasha,,9/1/2022,,,Maintenance
+3,450,Sasha,,9/1/2022,,"'<a href='https://www.google.com' target='_blank'>Image1</a>',' ','<a href='https://www.yahoo.com' target='_blank'>Image2</a>')",Maintenance
 4,450,,,9/1/2022,,,Budgetary
 5,450,,,9/1/2022,,,Budgetary
 6,450,,,9/1/2022,,,Budgetary
